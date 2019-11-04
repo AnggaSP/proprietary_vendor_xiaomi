@@ -48,7 +48,7 @@
              MinCoreOnline="0" />
 
          <ClustersInfo Id="0" NumCores="4" Type="little" />
-         <ClustersInfo Id="1" NumCores="4" Type="big" MaxFrequency="2361600" />
+         <ClustersInfo Id="1" NumCores="4" Type="big" />
 
     </Config1>
 
